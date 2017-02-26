@@ -1,0 +1,9 @@
+{
+	"version": "1.0.0",
+	"name": "mypackage",
+	"private": true,
+  "devDependencies": {
+    "vt-pbf": "2.1.2",
+    "proj4": "2.3.17"
+  }
+}

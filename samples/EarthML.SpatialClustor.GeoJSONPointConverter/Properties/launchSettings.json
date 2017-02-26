@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "EarthML.SpatialClustor.GeoJSONPointConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\dev\\EarthML\\EarthML.SpatialCluster\\test\\EarthML.SpatialCluster.Tests\\fixtures\\points.geojson\" tmp --proj \"+proj=tmerc +lat_0=55.6179167 +lon_0=12.6559722 +x_0=0 +y_0=0 +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +no_defs\" --extent -20000 -20000 20000 20000",
+      "workingDirectory": "C:\\dev\\EarthML\\EarthML.SpatialCluster\\samples\\EarthML.SpatialClustor.GeoJSONPointConverter"
+    }
+  }
+}
