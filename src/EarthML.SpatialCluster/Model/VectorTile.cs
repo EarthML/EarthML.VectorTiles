@@ -102,7 +102,7 @@ namespace EarthML.SpatialCluster.Models
                         continue;
                     }
 
-                    var simplifiedRing = new VectorTileGeometry();
+                    var simplifiedRing = new VectorTileGeometry() {  Area = ring.Area, Distance = ring.Distance};
 
                     for (var j = 0; j < ring.Count; j++)
                     {

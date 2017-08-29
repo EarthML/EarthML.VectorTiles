@@ -13,7 +13,7 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="1.1.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\EarthML.SpatialCluster\EarthML.SpatialCluster.csproj" />
+    <ProjectReference Include="..\..\src\EarthML.SpatialCluster\EarthML.VectorTiles.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Update=".dockerignore">

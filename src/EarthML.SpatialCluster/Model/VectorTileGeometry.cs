@@ -12,6 +12,14 @@ namespace EarthML.SpatialCluster
     }
     public class VectorTileGeometry : List<double[]>
     {
+        public VectorTileGeometry()
+        {
+
+        }
+        public VectorTileGeometry(IEnumerable<double[]> points) : base(points)
+        {
+
+        }
         public double Area { get; set; }
         public double Distance { get; set; }
 

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EarthML.GeoJSON2VectorTiles": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\pks\\Downloads\\sentinelgrid.geojson\" tmp"
+    }
+  }
+}

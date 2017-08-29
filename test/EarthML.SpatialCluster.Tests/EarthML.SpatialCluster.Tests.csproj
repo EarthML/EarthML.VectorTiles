@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\EarthML.SpatialCluster\EarthML.SpatialCluster.csproj" />
+    <ProjectReference Include="..\..\src\EarthML.SpatialCluster\EarthML.VectorTiles.csproj" />
   </ItemGroup>
 
   <ItemGroup>
